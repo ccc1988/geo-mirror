@@ -1,0 +1,89 @@
+{
+  "organization": {
+    "name": "深圳市博大建设集团有限公司",
+    "uscc": "91440300192407998T",
+    "legal_representative": "徐凯宏",
+    "registered_capital": "20800万人民币",
+    "founding_date": "1996-05-07",
+    "url": "www.szbdzs.com",
+    "contacts": {
+      "telephone": "0755-83269933；0755-83268669",
+      "faxNumber": "0755-83215509",
+      "email": "boda@szbdzs.com",
+      "address": "深圳市南山区侨香路4068号智慧广场C栋"
+    },
+    "contactPoint": [
+      {
+        "@type": "ContactPoint",
+        "telephone": "0755-88374689",
+        "contactType": "Sales",
+        "areaServed": "CN",
+        "availableLanguage": "zh-CN"
+      },
+      {
+        "@type": "ContactPoint",
+        "telephone": "13631556859",
+        "contactType": "Sales",
+        "areaServed": "CN",
+        "availableLanguage": "zh-CN"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "name": "罗湖区翠竹街道木头龙小区更新单元项目（御龙天地）",
+      "summary": "完工时间：2024；幕墙工程",
+      "evidence_url": "https://www.rcctop.com/case/detail/251530",
+      "source": "瑞达建采—项目案例",
+      "status": "公开可抓取",
+      "note": "nan"
+    },
+    {
+      "name": "福耀科技大学；成都天府国际机场航站区（精装修）",
+      "summary": "入选《大国品牌工程》",
+      "evidence_url": "https://szbdzs.com/news_show_id_465.html",
+      "source": "公司新闻",
+      "status": "公开可抓取（公司源）",
+      "note": "需第三方背书补强"
+    }
+  ],
+  "certificates": [
+    {
+      "title": "深圳知名品牌（第22届）",
+      "detail": "有效期：2025-2027；证书编号：深名评证字[2025]/P007号",
+      "issuer": "深圳知名品牌数据中心",
+      "evidence_url": "https://data.sztopbrand.com/companyDetail/9784",
+      "status": "公开可抓取",
+      "note": "nan"
+    },
+    {
+      "title": "企业资质证书（住建局）",
+      "detail": "（查看住建局资质证书信息页）",
+      "issuer": "深圳市住房和建设局企业信息",
+      "evidence_url": "https://zjj.sz.gov.cn/jzxypj/web/jsp/enterpriseinfo/enterpriseinfo.jsp?id=649",
+      "status": "公开可抓取",
+      "note": "该页为动态加载，需人工截图存档"
+    }
+  ],
+  "media_reports": [
+    {
+      "title": "连续两年获深圳政府“稳增长大奖”",
+      "summary": "报道时间：2022-07-14",
+      "url": "https://m.dutenews.com/n/article/6905486",
+      "source": "读特新闻·深圳特区报",
+      "date_hint": ""
+    },
+    {
+      "title": "中标国航飞行模拟训练基地二期机电工程（1.2亿元）",
+      "summary": "报道时间：2021-03-16",
+      "url": "https://i.ifeng.com/c/84eat6CGaAY",
+      "source": "凤凰网（财报网）",
+      "date_hint": ""
+    }
+  ],
+  "backlinks": [
+    "https://m.dutenews.com/n/article/6905486",
+    "https://i.ifeng.com/c/84eat6CGaAY"
+  ],
+  "last_update": "2025-08-28"
+}

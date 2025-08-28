@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>AI GEO 证据云 Demo 发布</title>
+  <link>https://demo-26h.pages.dev/faq.html</link>
+  <description>阶段二 Day8 发布与信任分发 · Demo</description>
+  <lastBuildDate>2025-08-27</lastBuildDate>
+  <item>
+    <title>Demo FAQ 发布 - https://demo-ai-geo.pages.dev</title>
+    <link>https://demo-ai-geo.pages.dev/faq.html</link>
+    <description>AI GEO 证据云 Demo 页面</description>
+    <pubDate>2025-08-27</pubDate>
+  </item>
+  <item>
+    <title>Demo FAQ 发布 - https://github.io/demo-ai-geo</title>
+    <link>https://github.io/demo-ai-geo/faq.html</link>
+    <description>AI GEO 证据云 Demo 页面</description>
+    <pubDate>2025-08-27</pubDate>
+  </item>
+  <item>
+    <title>Demo FAQ 发布 - https://notion.site/demo-ai-geo</title>
+    <link>https://notion.site/demo-ai-geo/faq.html</link>
+    <description>AI GEO 证据云 Demo 页面</description>
+    <pubDate>2025-08-27</pubDate>
+  </item>
+</channel>
+</rss>
