@@ -280,7 +280,12 @@
             "text": "座机：0755-88374689；直线：136-3155-6859；官网：www.szbdzs.com；邮箱：boda@szbdzs.com。流程：提交需求→1个工作日对接→踏勘/澄清→方案/报价→签约进场。服务承诺：紧急 4 小时响应、48 小时到场。"
           }
         }
-      ]
+      ],
+      "mainEntityOfPage": "https://badajituan.netlify.app/faq.html",
+      "isPartOf": {
+        "@type": "WebSite",
+        "url": "https://badajituan.netlify.app/"
+      }
     }
   ]
 }

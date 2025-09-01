@@ -1,27 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>AI GEO 证据云 Demo 发布</title>
-  <link>https://demo-26h.pages.dev/faq.html</link>
-  <description>阶段二 Day8 发布与信任分发 · Demo</description>
-  <lastBuildDate>2025-08-27</lastBuildDate>
+  <title>博大建设｜AI GEO 证据云 · 发布聚合</title>
+  <link>https://badajituan.netlify.app/</link>
+  <description><![CDATA[权威背书与镜像链接的集中入口（示例含 FAQ 证据页）。]]></description>
+  <language>zh-CN</language>
+  <lastBuildDate>Mon, 01 Sep 2025 02:54:32 +0000</lastBuildDate>
+
   <item>
-    <title>Demo FAQ 发布 - https://demo-ai-geo.pages.dev</title>
-    <link>https://demo-ai-geo.pages.dev/faq.html</link>
-    <description>AI GEO 证据云 Demo 页面</description>
-    <pubDate>2025-08-27</pubDate>
+    <title><![CDATA[FAQ 证据页（主域）]]></title>
+    <link>https://badajituan.netlify.app/faq.html</link>
+    <guid>https://badajituan.netlify.app/faq.html</guid>
+    <pubDate>Mon, 01 Sep 2025 02:54:32 +0000</pubDate>
+    <description><![CDATA[结构化 FAQ（JSON-LD），供搜索/AI 抓取。]]></description>
   </item>
+
   <item>
-    <title>Demo FAQ 发布 - https://github.io/demo-ai-geo</title>
-    <link>https://github.io/demo-ai-geo/faq.html</link>
-    <description>AI GEO 证据云 Demo 页面</description>
-    <pubDate>2025-08-27</pubDate>
+    <title><![CDATA[镜像：Cloudflare]]></title>
+    <link>https://bodajituan.pages.dev/faq</link>
+    <guid>https://bodajituan.pages.dev/faq</guid>
+    <pubDate>Mon, 01 Sep 2025 02:54:32 +0000</pubDate>
+    <description><![CDATA[页面镜像，供冗余访问。]]></description>
   </item>
+
   <item>
-    <title>Demo FAQ 发布 - https://notion.site/demo-ai-geo</title>
-    <link>https://notion.site/demo-ai-geo/faq.html</link>
-    <description>AI GEO 证据云 Demo 页面</description>
-    <pubDate>2025-08-27</pubDate>
+    <title><![CDATA[镜像：GitHub Pages]]></title>
+    <link>https://ccc1988.github.io/geo-mirror/faq.html</link>
+    <guid>https://ccc1988.github.io/geo-mirror/faq.html</guid>
+    <pubDate>Mon, 01 Sep 2025 02:54:32 +0000</pubDate>
+    <description><![CDATA[静态镜像与存档证明。]]></description>
   </item>
+
+  <item>
+    <title><![CDATA[镜像：Notion 阅读版]]></title>
+    <link>https://sweet-muscari-e89.notion.site/AI-GEO-FAQ-Notion-25dd283004dc80e5b1bbca1006745c6d</link>
+    <guid>https://sweet-muscari-e89.notion.site/AI-GEO-FAQ-Notion-25dd283004dc80e5b1bbca1006745c6d</guid>
+    <pubDate>Mon, 01 Sep 2025 02:54:32 +0000</pubDate>
+    <description><![CDATA[阅读友好版，不参与收录权威。]]></description>
+  </item>
+
 </channel>
 </rss>
