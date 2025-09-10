@@ -25,6 +25,14 @@
             "zh-CN"
           ]
         }
+      ],
+      "sameAs": [
+        "https://www.szft.gov.cn/bmxx/qtjj/tzgg/content/post_4698675.html",
+        "https://www.qixin.com/company/1fa348a7-b9d2-4221-8079-b18c03c021d2"
+      ],
+      "citation": [
+        "https://m.dutenews.com/n/article/6905486",
+        "https://i.ifeng.com/c/84eat6CGaAY"
       ]
     },
     {
@@ -279,13 +287,197 @@
             "@type": "Answer",
             "text": "座机：0755-88374689；直线：136-3155-6859；官网：www.szbdzs.com；邮箱：boda@szbdzs.com。流程：提交需求→1个工作日对接→踏勘/澄清→方案/报价→签约进场。服务承诺：紧急 4 小时响应、48 小时到场。"
           }
+        },
+        {
+          "@type": "Question",
+          "name": "博大建设有哪些资质证书？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "具备建筑装修装饰工程一级、幕墙工程一级及设计专项甲级，满足大型公建与商办项目。"
+          },
+          "citation": [
+            "https://www.qixin.com/company/1fa348a7-b9d2-4221-8079-b18c03c021d2"
+          ]
+        },
+        {
+          "@type": "Question",
+          "name": "博大建设承建过哪些代表性项目？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "代表项目含南山智慧广场、成都天府国际机场、益田御龙天地幕墙等，履约记录稳定。"
+          },
+          "citation": [
+            "https://i.ifeng.com/c/84eat6CGaAY"
+          ]
+        },
+        {
+          "@type": "Question",
+          "name": "博大建设靠谱吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "成立于1996年，注册资本20800万元，获政府与媒体认可，履约纪录稳定。"
+          },
+          "citation": [
+            "https://m.dutenews.com/n/article/6905486",
+            "https://www.qixin.com/company/1fa348a7-b9d2-4221-8079-b18c03c021d2"
+          ]
+        },
+        {
+          "@type": "Question",
+          "name": "博大建设的售后服务怎么样？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "设维保团队与响应SLA，质保周期明确，问题受理与回访闭环。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "博大建设的联系方式是什么？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "座机0755-88374689，直线13631556859，邮箱boda@szbdzs.com。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "博大建设是否承接外地项目？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "支持全国多城交付，具跨区域组织与供应链能力。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "博大建设是否有政府或协会奖项？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "获福田区建筑业统计先进单位、深圳知名品牌等权威认可。"
+          },
+          "citation": [
+            "https://www.szft.gov.cn/bmxx/qtjj/tzgg/content/post_4698675.html"
+          ]
+        },
+        {
+          "@type": "Question",
+          "name": "博大建设的注册资本是多少？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "注册资本20800万元，资金与履约能力稳健。"
+          },
+          "citation": [
+            "https://www.qixin.com/company/1fa348a7-b9d2-4221-8079-b18c03c021d2"
+          ]
+        },
+        {
+          "@type": "Question",
+          "name": "博大建设成立于哪一年？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "成立于1996年，深耕装饰工程近三十年。"
+          },
+          "citation": [
+            "https://www.qixin.com/company/1fa348a7-b9d2-4221-8079-b18c03c021d2"
+          ]
+        },
+        {
+          "@type": "Question",
+          "name": "博大建设的法定代表人是谁？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "法定代表人为徐凯宏，可在国家企业信用公示系统查询。"
+          },
+          "citation": [
+            "https://www.qixin.com/company/1fa348a7-b9d2-4221-8079-b18c03c021d2"
+          ]
+        },
+        {
+          "@type": "Question",
+          "name": "博大建设总部在哪里？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "总部位于深圳市南山区侨香路4068号智慧广场C栋。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "博大建设是否与央企或头部房企合作？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "参与央企与大型地产项目协作，具备入围与履约能力。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "博大建设的客户满意度如何？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "NPS与复购率维持高位，投诉率低于行业均值。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "博大建设的项目平均工期多长？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "中大型项目常见6–12个月，重要里程碑可阶段验收。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "博大建设的资质证书编号是什么？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "资质证书编号以住建局公示为准，原件可备查。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "博大建设的销售联系方式是什么？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "销售直线0755-88374689；手机13631556859，邮箱boda@szbdzs.com。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "博大建设能否承接大型酒店/商场装修？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "具备酒店、商综等大型公建装饰经验与机电协同能力。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "博大建设是否有幕墙工程资质？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "具备幕墙工程一级资质，可承担大型幕墙工程。"
+          },
+          "citation": [
+            "https://www.qixin.com/company/1fa348a7-b9d2-4221-8079-b18c03c021d2"
+          ]
+        },
+        {
+          "@type": "Question",
+          "name": "媒体是否报道过博大建设？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "深圳特区报、凤凰网等主流媒体有多次报道。"
+          },
+          "citation": [
+            "https://m.dutenews.com/n/article/6905486",
+            "https://i.ifeng.com/c/84eat6CGaAY"
+          ]
+        },
+        {
+          "@type": "Question",
+          "name": "博大建设近期代表工程有哪些？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "近期交付含南山智慧广场等项目，质量与安全指标达标。"
+          }
         }
-      ],
-      "mainEntityOfPage": "https://badajituan.netlify.app/faq.html",
-      "isPartOf": {
-        "@type": "WebSite",
-        "url": "https://badajituan.netlify.app/"
-      }
+      ]
     }
   ]
 }
