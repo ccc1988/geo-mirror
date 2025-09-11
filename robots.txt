@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://badajituan.netlify.app/sitemap.xml
+Sitemap: https://zhengjuyun.cn/sitemap.xml

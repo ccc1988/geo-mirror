@@ -1,43 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-<channel>
-  <title>博大建设｜AI GEO 证据云 · 发布聚合</title>
-  <link>https://badajituan.netlify.app/</link>
-  <description><![CDATA[权威背书与镜像链接的集中入口（示例含 FAQ 证据页）。]]></description>
-  <language>zh-CN</language>
-  <lastBuildDate>Mon, 01 Sep 2025 02:54:32 +0000</lastBuildDate>
+  <channel>
+    <title>AI GEO 证据云 · 媒体/公告</title>
+    <link>https://zhengjuyun.cn/press.rss</link>
+    <description>证据云 Demo 的媒体链接与权威公告</description>
+    <language>zh-CN</language>
 
-  <item>
-    <title><![CDATA[FAQ 证据页（主域）]]></title>
-    <link>https://badajituan.netlify.app/faq.html</link>
-    <guid>https://badajituan.netlify.app/faq.html</guid>
-    <pubDate>Mon, 01 Sep 2025 02:54:32 +0000</pubDate>
-    <description><![CDATA[结构化 FAQ（JSON-LD），供搜索/AI 抓取。]]></description>
-  </item>
-
-  <item>
-    <title><![CDATA[镜像：Cloudflare]]></title>
-    <link>https://bodajituan.pages.dev/faq</link>
-    <guid>https://bodajituan.pages.dev/faq</guid>
-    <pubDate>Mon, 01 Sep 2025 02:54:32 +0000</pubDate>
-    <description><![CDATA[页面镜像，供冗余访问。]]></description>
-  </item>
-
-  <item>
-    <title><![CDATA[镜像：GitHub Pages]]></title>
-    <link>https://ccc1988.github.io/geo-mirror/faq.html</link>
-    <guid>https://ccc1988.github.io/geo-mirror/faq.html</guid>
-    <pubDate>Mon, 01 Sep 2025 02:54:32 +0000</pubDate>
-    <description><![CDATA[静态镜像与存档证明。]]></description>
-  </item>
-
-  <item>
-    <title><![CDATA[镜像：Notion 阅读版]]></title>
-    <link>https://sweet-muscari-e89.notion.site/AI-GEO-FAQ-Notion-25dd283004dc80e5b1bbca1006745c6d</link>
-    <guid>https://sweet-muscari-e89.notion.site/AI-GEO-FAQ-Notion-25dd283004dc80e5b1bbca1006745c6d</guid>
-    <pubDate>Mon, 01 Sep 2025 02:54:32 +0000</pubDate>
-    <description><![CDATA[阅读友好版，不参与收录权威。]]></description>
-  </item>
-
-</channel>
+    <item>
+      <title>证据云域名切换为 zhengjuyun.cn（权威域）</title>
+      <link>https://zhengjuyun.cn/faq.html</link>
+      <guid>https://zhengjuyun.cn/faq.html</guid>
+      <pubDate>Thu, 11 Sep 2025 03:02:16 +0800</pubDate>
+      <description>为提升国内 AI 收录与权威性，证据云 Demo 现以 zhengjuyun.cn 为主域名运行。</description>
+    </item>
+  </channel>
 </rss>
