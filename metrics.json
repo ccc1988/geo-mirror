@@ -1,8 +1,8 @@
 {
   "facts_count": 20,
-  "projects_count": 2,
+  "projects_count": 5,
   "certificates_count": 2,
-  "media_count": 10,
+  "media_count": 30,
   "faq_items_std": 51,
   "faq_items_longtail": 27,
   "last_update": "2025-09-17",
@@ -11,8 +11,9 @@
       "date": "2025-09-17",
       "actions": [
         "faq_update",
-        "rss_build",
-        "evidence_links_add_8"
+        "faq_jsonld_update",
+        "evidence_links_add_28",
+        "projects_add_3"
       ]
     }
   ]
